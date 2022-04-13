@@ -1,2 +1,2 @@
 # zerotier-openipc
-ZeroTier One builds for openipc firmware based ip cameras
+[ZeroTier One](https://www.zerotier.com/) builds for [openipc firmware](https://github.com/OpenIPC/firmware) based ip cameras.
